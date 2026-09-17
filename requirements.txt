@@ -1,0 +1,21 @@
+# AI Cropland Monitoring & Crop Health Analysis Requirements
+
+# Deep Learning & Geospatial Processing (CTHBNet & Sentinel-2 Pipeline)
+torch>=2.0.0
+torchvision>=0.15.0
+xarray>=2023.1.0
+netCDF4>=1.6.0
+rasterio>=1.3.0
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+requests>=2.28.0
+
+# Crop Health Dashboard & Analytics Interface
+streamlit>=1.30.0
+geopandas>=0.14.0
+plotly>=5.18.0
+folium>=0.15.0
+streamlit-folium>=0.17.0
+reportlab>=4.0.0
+shapely>=2.0.0

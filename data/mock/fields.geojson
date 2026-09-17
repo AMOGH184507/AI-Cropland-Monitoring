@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "field_id": "F001",
+        "field_name": "North Wheat Polygon",
+        "area_ha": 45.2,
+        "crop_type": "Wheat"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -119.82,
+              36.45
+            ],
+            [
+              -119.81,
+              36.45
+            ],
+            [
+              -119.81,
+              36.442
+            ],
+            [
+              -119.82,
+              36.442
+            ],
+            [
+              -119.82,
+              36.45
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_id": "F002",
+        "field_name": "East Corn Plot",
+        "area_ha": 38.7,
+        "crop_type": "Corn"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -119.805,
+              36.45
+            ],
+            [
+              -119.792,
+              36.45
+            ],
+            [
+              -119.792,
+              36.442
+            ],
+            [
+              -119.805,
+              36.442
+            ],
+            [
+              -119.805,
+              36.45
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_id": "F003",
+        "field_name": "South Soybean Belt",
+        "area_ha": 52.1,
+        "crop_type": "Soybean"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -119.82,
+              36.438
+            ],
+            [
+              -119.808,
+              36.438
+            ],
+            [
+              -119.808,
+              36.428
+            ],
+            [
+              -119.82,
+              36.428
+            ],
+            [
+              -119.82,
+              36.438
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_id": "F004",
+        "field_name": "Central Cotton Field (Anomaly Test)",
+        "area_ha": 29.8,
+        "crop_type": "Cotton"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -119.805,
+              36.438
+            ],
+            [
+              -119.792,
+              36.438
+            ],
+            [
+              -119.792,
+              36.428
+            ],
+            [
+              -119.805,
+              36.428
+            ],
+            [
+              -119.805,
+              36.438
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "field_id": "F005",
+        "field_name": "West Alfalfa Tract",
+        "area_ha": 61.4,
+        "crop_type": "Alfalfa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -119.835,
+              36.45
+            ],
+            [
+              -119.823,
+              36.45
+            ],
+            [
+              -119.823,
+              36.435
+            ],
+            [
+              -119.835,
+              36.435
+            ],
+            [
+              -119.835,
+              36.45
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
